@@ -40,15 +40,15 @@ Aplikasi pencatatan uang kas mahasiswa berbasis Python yang menyediakan fitur ma
 
 
 # Python Library yang digunakan:
-tkinter — untuk GUI
-csv — untuk membaca/menulis file CSV
-datetime — untuk mencatat waktu transaksi
-os — untuk pengecekan file/folder
+- tkinter — untuk GUI
+- csv — untuk membaca/menulis file CSV
+- datetime — untuk mencatat waktu transaksi
+- os — untuk pengecekan file/folder
 
-Jika Anda menjalankan program dan mendapatkan error seperti ModuleNotFoundError: No module named 'tkinter', maka Anda harus menginstal Tkinter terlebih dahulu (tergantung sistem operasi).
+Jika menjalankan program dan mendapatkan error seperti ModuleNotFoundError: No module named 'tkinter', maka Anda harus menginstal Tkinter terlebih dahulu (tergantung sistem operasi).
 
 Windows:
-pip install tk
+- *pip install tk*
 
 Linux (Debian/Ubuntu):
-sudo apt-get install python3-tk
+- *sudo apt-get install python3-tk*
