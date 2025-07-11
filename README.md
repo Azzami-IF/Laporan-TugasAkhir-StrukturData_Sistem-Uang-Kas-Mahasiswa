@@ -25,18 +25,18 @@ Aplikasi pencatatan uang kas mahasiswa berbasis Python yang menyediakan fitur ma
   Untuk membatalkan pembayaran terakhir yang dilakukan.
 
 ## Struktur Folder
-uang-kas-mahasiswa/
-├── main.py
-├── auth.py
-├── database.py
-├── logic.py
-├── utils.py
-├── data/
-│ ├── data_mahasiswa.csv
-│ ├── kas_mahasiswa.csv
-│ ├── log.csv
-│ └── admin.csv
-└── README.md
+- uang-kas-mahasiswa/
+- ├── main.py
+- ├── auth.py
+- ├── database.py
+- ├── logic.py
+- ├── utils.py
+- ├── data/
+- │ ├── data_mahasiswa.csv
+- │ ├── kas_mahasiswa.csv
+- │ ├── log.csv
+- │ └── admin.csv
+- └── README.md
 
 
 # Python Library yang digunakan:
